@@ -43,7 +43,8 @@ idea for testing purposes to initially compile the plugin with `MQAP_DEBUG`
 defined, as this will cause messages to be written to the brokers' `stderr`
 about the operation of the plugin.
 
-#Versions The latest tagged version of the code has been tested with Mosquitto
+#Versions 
+The latest tagged version of the code has been tested with Mosquitto
 1.1.3 on OpenVMS Integrity (Itanium) 8.3; however it should work with Mosquitto
 1.2 and OpenVMS 8.4.
 
